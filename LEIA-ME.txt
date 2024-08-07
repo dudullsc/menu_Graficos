@@ -1,0 +1,8 @@
+Versão de Python : 3.12
+Site de para baixar Windowns : https://www.python.org/downloads/
+
+Instalando os requerimentos 
+
+---- pip install -r requerimentos.txt
+
+Rodando no arquivo principal "main.py"
